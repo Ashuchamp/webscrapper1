@@ -1,0 +1,18 @@
+@media screen and (max-width: 750px) {
+	.firstSection {
+		padding: 25% 5% 25% 5%;
+	}
+	
+    .writtenSection {
+        padding-top: 10%;
+    }
+	
+	.landing {
+		background-attachment: scroll;
+	}
+	
+	.pdfRubric {
+		display: none;
+	}
+
+}
