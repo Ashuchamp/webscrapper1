@@ -1,9 +1,0 @@
-.navbar {
-	background-color: rgba(50, 50, 50, 1) !important;
-    height: 85px !important;
-}
-
-.dropDownContentAbout, .dropDownContentOverview, .dropDownContentMedia {
-	background-color: rgba(54, 54, 54, 1) !important;
-    transform: translate(0px, -13px) !important;
-}
